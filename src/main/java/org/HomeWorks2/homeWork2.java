@@ -1,4 +1,4 @@
-package org.example;
+package org.HomeWorks2;
 
 public class homeWork2 {
 //    Дана строка sql-запроса "select * from students where ".
